@@ -8,7 +8,7 @@
 
 ## 1.1. BỨC TRANH JVM: STACK, HEAP VÀ SỰ THẬT VỀ THAM CHIẾU
 
-### 1.1.1. Kiến trúc vùng nhớ JVM — Nhìn từ góc phẫu thuật
+### 1.1.1. Kiến trúc vùng nhớ JVM — Nhìn từ góc phân tích
 
 Khi bạn gõ `java Main`, JVM khởi động và chia bộ nhớ thành **hai vùng chính** mà mọi dòng code của bạn đều phụ thuộc:
 
@@ -147,7 +147,7 @@ class User {
 
 ---
 
-### 1.1.3. `==` vs `.equals()` — Phẫu thuật sự khác biệt
+### 1.1.3. `==` vs `.equals()` — phân tích sự khác biệt
 
 | Toán tử | So sánh cái gì? | Dùng khi nào? |
 |---------|-----------------|---------------|
