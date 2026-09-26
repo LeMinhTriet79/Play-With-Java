@@ -148,7 +148,7 @@ class User {
 
 ---
 
-### 1.1.3. `==` vs `.equals()` — Phẫu thuật sự khác biệt
+### 1.1.3. `==` vs `.equals()` — phân tích sự khác biệt
 
 | Toán tử | So sánh cái gì? | Dùng khi nào? |
 |---------|-----------------|---------------|
